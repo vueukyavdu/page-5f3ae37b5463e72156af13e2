@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--bocchi-u40k507h.com/sitemap.xml

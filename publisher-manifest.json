@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8d55a6d715134ba307a30254",
+  "owner": "vueukyavdu",
+  "repo": "page-5f3ae37b5463e72156af13e2",
+  "title": "悦通(Yue)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f3ae37b5463e72156af13e2",
+      "a": "悦通(Yue)",
+      "b": "稳定全球clash加速器",
+      "entity": "悦通(Yue)",
+      "brand": "悦通(Yue)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c54c9f79503925f5e5a8ea8f7a6ed32fffe47637a76b1b4f63d742a6eba1a8c2",
+      "content": {
+        "primary_entity": "悦通(Yue)",
+        "keyword1": "悦通(Yue)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，电脑用 Clash Verge、手机用 Clash Meta for Android 或 Shadowrocket，配置时把订阅地址粘贴进去即可。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅配置",
+          "AI_CLOSING_TEXT": "先领一台设备试用，再按用量升配。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量，全年 ¥150；旗舰版每月 300GB 流量，全年 ¥350，含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量，全年 ¥850，支持企业定制路由与专属客户经理服务。客户端覆盖 Clash Verge、Clash Meta 等常用工具，按设备导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三项信息帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与订阅解析",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用设备数量对应档位即可。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "流量按月重置，主用设备多选旗舰版或团队版，轻度使用选基础版更经济。",
+          "AI_FEATURE_TITLE_2": "流量按需匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更低，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用选年付更省。",
+          "AI_FEATURE_TITLE_3": "订阅周期对比",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的配置流程。",
+          "AI_GUIDE_TITLE": "上手步骤",
+          "AI_HERO_INTRO": "悦通(Yue)提供稳定全球网络加速订阅，覆盖 Clash 系列常用客户端。基础版、旗舰版与团队版按流量、设备数量和线路等级区分，选择对应档位后按客户端文档导入订阅，即可在电脑与移动设备上使用。",
+          "AI_HERO_SUBTITLE": "悦通(Yue)，按需选套餐更省心",
+          "AI_HIGHLIGHT_1": "三档套餐月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 Clash 系列常用客户端导入订阅",
+          "AI_HIGHLIGHT_3": "年付低至月均 ¥12.5 起",
+          "AI_PLANS_INTRO": "基础版适合轻度上网，旗舰版适合多设备与流媒体、游戏，团队版适合多人共享与企业路由定制。月付与年付并行，年付价格更低。",
+          "AI_PLANS_TITLE": "套餐对比速览",
+          "AI_STEP_TEXT_1": "按设备数量与月流量，从基础版、旗舰版、团队版中选出匹配档位，确认月付或年付。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "确认常用设备类型，电脑可用 Clash Verge，安卓可用 Clash Meta for Android，iOS 可用 Shadowrocket。",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TEXT_3": "打开客户端导入订阅地址，按对应文档完成配置，连接节点后开始使用。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "悦通(Yue) 套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备在线，解锁基础流媒体；旗舰版每月300GB、5台设备在线，支持全节点原生流媒体解锁和IPLC专线游戏加速。",
+          "AI_FAQ_QUESTION_2": "一个账号可以在多台设备上同时使用吗？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台、旗舰版支持5台、团队版支持20台设备同时在线。超出数量的设备需要另外订阅或升级套餐。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版按月15元，年付150元；旗舰版按月35元，年付350元；团队版按月85元，年付850元。年付相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "在哪些客户端上可以配置悦通订阅？",
+          "AI_FAQ_ANSWER_4": "主流桌面和移动操作系统均有对应客户端。请根据你的设备型号选择客户端，并参照其配置文档导入订阅链接。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备同时在线，提供VIP专属高带宽节点和企业定制路由，适合小型团队或家庭多设备共享。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--bocchi-u40k507h.com",
+    "host": "xn--bocchi-u40k507h.com"
+  },
+  "file_hashes": {
+    "index.html": "9aac013d1d6c154d949e061ba72b3ce7cbbe3c545b541c98ae81f8bec04fa51f",
+    "sitemap.xml": "1905060bff37b84bc177f5c2077fd94d5ecf71727b9f8c625a3af97b21c098de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0bd44771c51ce1aca7cc56ab08e33cd11cbec6d3a4a082ebcb4aa8b00e64ff75",
+    "robots.txt": "f4007d26edeeb2cc8b7f035d0a677c759616e4824d89cc9bdd3fc1465369d1f6",
+    "87837ca2eb93c4886997dd9101f47dcc.txt": "d178e6650bebf71af05cfc509355e95bcdbec7efdc8859ec1abc0bbba964d0c1"
+  },
+  "revision": "34492ea650fc1959937a874053593c790897e8508fae087865bf15b0b3f4a1c0"
+}
